@@ -1,7 +1,7 @@
 
 import "./Projects.css"
 import ProBox from "../Probox/ProBox";
-import demo1 from "./images/demo1.png";
+import demo1 from "./images/screenzaa.png";
 import demo2 from "./images/demo2.png";
 
 function Projects() {
@@ -15,15 +15,15 @@ function Projects() {
             <div className="projects-grid">
               
             <ProBox
-                title="Portfolio"
+                title="ScreenZaa"
                 img={demo1}
-                description="This is not a project it is just added for alignment "
+                description="ScreenZaa: Your ultimate online destination for all things movies, offering easy exploration, comparison, and reservation of top-notch cinematic experiences."
                 techno1="React"
-                techno2="CSS"
-                code="https://github.com/mohitpatidardev"
-                demo="https://mohitpatidardev.vercel.app/"
-                scrollY="-15%"
-                icon="🚗"
+                techno2="SCSS"
+                code="https://github.com/mohitpatidardev/ScreenZaa"
+                demo="https://screenzaa.vercel.app/"
+                scrollY="-61%"
+                icon="🎬"
               />
 
 
