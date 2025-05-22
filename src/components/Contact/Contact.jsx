@@ -28,8 +28,8 @@ const Contact = () => {
                 </span>
                 <div className="contact__info">
                   <h3>Mail</h3>
-                  <a href="mailto:mohitpatidar.dev@gmail.com">
-                  mohitpatidar.dev@gmail.com
+                  <a href="mailto:mohitpatidar2186@gmail.com">
+                  mohitpatidar2186@gmail.com
                   </a>
                 </div>
               </div>
