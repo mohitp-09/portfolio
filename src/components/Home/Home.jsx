@@ -55,7 +55,7 @@ const Home = () => {
                     aria-label="linkedin"
                     rel="noreferrer"
                     target="_blank"
-                    href="https://www.linkedin.com/in/mohitpatidardev/"
+                    href="https://www.linkedin.com/in/mohitp09/"
                   >
                     <i className="fa-brands fa-linkedin"></i>
                   </a>
@@ -63,7 +63,7 @@ const Home = () => {
                     aria-label="github"
                     rel="noreferrer"
                     target="_blank"
-                    href="https://github.com/mohitpatidardev"
+                    href="https://github.com/mohitp-09"
                   >
                     <i className="fa-brands fa-github"></i>
                   </a>
