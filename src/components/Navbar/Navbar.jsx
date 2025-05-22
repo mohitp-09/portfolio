@@ -52,7 +52,7 @@ function Navbar() {
               <li key={item.name}><a onClick={(e) => scrollToSection(e, item.link)}>{item.name}</a></li>
             ))}
           </ul>
-          <h1 onClick={pageUp} className="logo">Mohit.dev</h1>
+          <h1 onClick={pageUp} className="logo">Mohit</h1>
         </div>
       </div>
     </>
