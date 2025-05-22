@@ -15,7 +15,7 @@ const Footer = () => {
                   aria-label="linkedin"
                   target="_blank"
                   rel="noreferrer"
-                  href="https://www.linkedin.com/in/mohitpatidardev/"
+                  href="https://www.linkedin.com/in/mohitp09/"
                 >
                   <i className="fa-brands fa-linkedin"></i>
                 </a>
@@ -23,7 +23,7 @@ const Footer = () => {
                   aria-label="github"
                   target="_blank"
                   rel="noreferrer"
-                  href="https://github.com/mohitpatidardev"
+                  href="https://github.com/mohitp-09"
                 >
                   <i className="fa-brands fa-github"></i>
                 </a>
