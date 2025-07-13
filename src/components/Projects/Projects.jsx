@@ -1,8 +1,8 @@
 
 import "./Projects.css"
 import ProBox from "../Probox/ProBox";
-import demo1 from "./images/screenzaa.png";
-import demo2 from "./images/demo2.png";
+const demo1 = "https://res.cloudinary.com/dhm1rjve5/image/upload/v1752383440/screenzaa_e4obkt.png";
+const demo2 = "https://res.cloudinary.com/dhm1rjve5/image/upload/v1752383433/demo2_gblwos.png";
 
 function Projects() {
   return (
@@ -13,7 +13,7 @@ function Projects() {
             <p>portfolio</p>
             <h3>Each project is a unique piece of development 🧩</h3>
             <div className="projects-grid">
-              
+
             <ProBox
                 title="ScreenZaa"
                 img={demo1}
@@ -27,7 +27,7 @@ function Projects() {
               />
 
 
-              
+
 
               <ProBox
                 title="Razepay Clone"
@@ -41,7 +41,7 @@ function Projects() {
                 icon="🪙"
                 cName="reversed-proj"
               />
-  
+
             </div>
           </div>
           <h2 className="new-projects">New projects coming soon.. 🤠</h2>

@@ -1,12 +1,12 @@
 
 // import "./Home.css";
 import "./Home.css";
-import Html from "./image/html.svg"
-import Css from "./image/css.svg"
-import Js from "./image/js.svg"
-import React from "./image/react.svg"
-import Tailwind from "./image/tailwind.svg"
-import Waving from "./image/waving..png"
+const Html = "https://res.cloudinary.com/dhm1rjve5/image/upload/v1752383412/html_khk3jv.svg";
+const Css = "https://res.cloudinary.com/dhm1rjve5/image/upload/v1752383412/css_gfpuiv.svg";
+const Js = "https://res.cloudinary.com/dhm1rjve5/image/upload/v1752383413/js_twit44.svg";
+const React = "https://res.cloudinary.com/dhm1rjve5/image/upload/v1752383413/react_wsz9xr.svg";
+const Tailwind = "https://res.cloudinary.com/dhm1rjve5/image/upload/v1752383413/tailwind_wodyo8.svg";
+const Waving = "https://res.cloudinary.com/dhm1rjve5/image/upload/v1752383414/waving._zzubaq.png";
 import cv from "./image/mohit_patidar_cv.pdf"
 
 
@@ -47,7 +47,7 @@ const Home = () => {
                 <img className="img" src={Waving} alt="waving_hand" />
                 <p>
                 Hi, I'm Mohit Patidar. A passionate Front-end React
-                  Developer from Indore. 
+                  Developer from Indore.
                 </p>
                 <a href={cv} class="btn" download><i class="fa fa-download"></i> Resume</a>
                 <span>
@@ -71,7 +71,7 @@ const Home = () => {
               </div>
               <div className="hero-img"></div>
             </div>
-            
+
           </div>
           <div className="skills">
               <p>Tech Stack</p>
@@ -92,9 +92,3 @@ const Home = () => {
 }
 
 export default Home;
-
-
-
-
-
-
