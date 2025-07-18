@@ -7,7 +7,7 @@ const Js = "https://res.cloudinary.com/dhm1rjve5/image/upload/v1752383413/js_twi
 const React = "https://res.cloudinary.com/dhm1rjve5/image/upload/v1752383413/react_wsz9xr.svg";
 const Tailwind = "https://res.cloudinary.com/dhm1rjve5/image/upload/v1752383413/tailwind_wodyo8.svg";
 const Waving = "https://res.cloudinary.com/dhm1rjve5/image/upload/v1752383414/waving._zzubaq.png";
-import cv from "./image/mohit_patidar_cv.pdf"
+import cv from "./image/Mohit_Patidar_FullStack_resume.pdf"
 
 
 const Home = () => {

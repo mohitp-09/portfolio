@@ -32,7 +32,7 @@ function Projects() {
               <ProBox
                 title="Razepay Clone"
                 img={demo2}
-                description="This is not a project it is just added for alignment"
+                description="A responsive Razorpay homepage clone built using HTML and Tailwind CSS. This project replicates the look and feel of the official Razorpay website, showcasing modern UI design and layout alignment techniques."
                 techno1="HTML"
                 techno2="Tailwind"
                 code="https://github.com/mohitpatidardev"
